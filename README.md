@@ -17,3 +17,10 @@ This repo contains already some files and folders that should stay here for conf
 ├── LICENSE 							# license file currently MIT license choosealicense.com
 └── README.md 						# this file - duh
 ```
+
+
+
+
+djsdlfhdjskf
+jsjshsg
+Hallo
